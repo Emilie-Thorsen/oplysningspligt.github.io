@@ -30,10 +30,11 @@ I projektet behandles følgende oplysninger om dig som deltager:
 
 + Navn
 + Cpr. nummer
++ Uddannelsesoplysninger
++ Beskæftigelsesoplysninger
 + Alder
 + Køn
-+ Helbredsoplysninger
-+ Øvrige personfølsomme oplysninger der måtte fremgå i interviewet på interviewdeltagers egen opfordring. Disse vil blive behandlet som de ovenstående personfølsomme oplysninger
++ Øvrige personfølsomme oplysninger der måtte fremgå i interviewet på interviewdeltagers egen opfordring. Disse vil blive behandlet som de ovenstående personfølsomme oplysninger.
 
 ## Anvendelsen af automatiske behandlinger (profilering)
 Profilering er en automatisk behandling af dine personoplysninger, fx behandlinger, der er bestemt af en algoritme. Her kan du se, om der indgår automatiske behandlinger af dine personoplysninger.
