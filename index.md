@@ -42,7 +42,7 @@ Profilering er en automatisk behandling af dine personoplysninger, fx behandling
 + Der anvendes *ikke* automatisk behandling af personoplysninger
 
 ## Hvor længe opbevares dine øvrige personoplysninger?
-Optagelserne og transskriberingerne vil blive sikkert gemt på Aarhus Universitets servere. Lydoptagelser og transskriptioner vil blive opbevaret i fem år efter sidste publikation. Dine personoplysninger behandles af Aarhus Universitet i personhenførbar form så længe, det er nødvendigt for forskningsformålet og reglerne om opbevaring efter ansvarlig forskningspraksis. Når dine personoplysninger ikke længere er nødvendige for behandlingen, vil de blive anonymiseret, overført til Rigsarkivet eller slettet
+Optagelserne og transskriberingerne fra interviews samt noter fra observationerne vil blive sikkert gemt på Aarhus Universitets servere. Vi kan ikke sige, hvor længe vi opbevarer oplysninger om dig. Projektet forventes afsluttet 31.01.2026, men i nogle tilfælde kan det være nødvendigt at opbevare dem længere. Vi opbevarer dine personoplysninger så længe, at det er nødvendigt i forhold til formålet med projektet og i henhold til gældende lovgivning. Transskriberinger og feltnoter bliver sløret inden de opbevares.
 
 ## Vil personoplysninger blive overladt eller videregivet til andre, fx forskere på andre universiteter?
 
@@ -62,8 +62,6 @@ Vi skal oplyse dig om, hvilke regler, der gælder for vores arbejde med dine per
 + Artikel 6, stk. 1, litra e, som giver Aarhus Universitet ret til at behandle ikke-følsomme personoplysninger om dig uden dit samtykke, da forskningsprojektet er en opgave i samfundets interesse, og det er nødvendigt at behandle personoplysninger for at gennemføre forskningsprojektet.
 
 + Artikel 6, stk. 1, litra e og databeskyttelseslovens § 10, stk. 1, som giver Aarhus Universitet ret til at behandle dine følsomme personoplysninger og eventuelt oplysninger om strafbare forhold til videnskabelige forskningsformål uden dit samtykke.
-
-+ Databeskyttelseslovens § 11, stk. 1, der giver Aarhus Universitet ret til at behandle dit CPR-nummer med henblik på entydig identifikation.
 
 ## Dine rettigheder efter databeskyttelsesforordningen
 Du har følgende rettigheder, hvis Aarhus Universitet behandler dine personoplysninger som et led i et forskningsprojekt, der er i samfundets interesse. 
