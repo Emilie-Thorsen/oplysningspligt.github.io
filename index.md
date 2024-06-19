@@ -15,7 +15,6 @@ Dataansvarlig for behandlingen af personoplysninger i forskningsprojektet er:
 Forskningsprojektet er ledet af PhD studerende [Emilie Kristrine Dyrlev Thorsen][aujr] som kan kontaktes på emdy@ps.au.dk
 
 ## Databeskyttelsesrådgiver ved Aarhus Universitet
-[Søren Broberg Nielsen][auSBN] 
 Databeskyttelsesrådgiver/DPO
 dpo@au.dk 
 
@@ -80,5 +79,4 @@ Carl Jacobsens Vej 35
 2500 Valby
 
 [aujr]: https://pure.au.dk/portal/da/persons/emdy%40ps.au.dk
-[auSBN]: https://pure.au.dk/portal/da/persons/soren.broberg%40au.dk
 [auCFDP]: https://psykiatrienisyddanmark.dk/forskning/tilladelser-og-anmeldelser-ved-forskningsprojekter
