@@ -44,8 +44,7 @@ Optagelserne og transskriberingerne fra interviews samt noter fra observationern
 
 ## Vil personoplysninger blive overladt eller videregivet til andre, fx forskere på andre universiteter?
 
-Dine personoplysninger, som er indsamlet til projektet, vil blive behandlet efter reglerne i artikel 28 i databeskyttelsesforordningen af:
-+ [Center for Digital Psykiatri][auCFDP], Heden 11, 2. og 3. sal, 5000 Odense C.
+Oplysninger bliver muligvis videregivet med henblik på forskningssamarbejde.
 
 ## Personoplysninger er indhentet fra
 
@@ -58,8 +57,6 @@ Dine personoplysninger, som er indsamlet til projektet, vil blive behandlet efte
 Vi skal oplyse dig om, hvilke regler, der gælder for vores arbejde med dine personoplysninger.
 
 + Artikel 6, stk. 1, litra e, som giver Aarhus Universitet ret til at behandle ikke-følsomme personoplysninger om dig uden dit samtykke, da forskningsprojektet er en opgave i samfundets interesse, og det er nødvendigt at behandle personoplysninger for at gennemføre forskningsprojektet.
-
-+ Artikel 6, stk. 1, litra e og databeskyttelseslovens § 10, stk. 1, som giver Aarhus Universitet ret til at behandle dine følsomme personoplysninger og eventuelt oplysninger om strafbare forhold til videnskabelige forskningsformål uden dit samtykke.
 
 ## Dine rettigheder efter databeskyttelsesforordningen
 Du har følgende rettigheder, hvis Aarhus Universitet behandler dine personoplysninger som et led i et forskningsprojekt, der er i samfundets interesse. 
